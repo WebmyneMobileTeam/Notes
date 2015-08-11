@@ -63,13 +63,7 @@ public class LauncherScreen extends AppCompatActivity implements NavigationView.
                 mDrawerLayout.closeDrawer(GravityCompat.START);
                 break;
 
-            case R.id.navigation_sub_item_1:
-                mDrawerLayout.closeDrawer(GravityCompat.START);
-                break;
 
-            case R.id.navigation_sub_item_2:
-                mDrawerLayout.closeDrawer(GravityCompat.START);
-                break;
 
         }
 
